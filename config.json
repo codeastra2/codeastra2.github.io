@@ -3,9 +3,9 @@
   "username": "codeastra2",
   "name": "Srinivas Kumar R",
   "userimg": "https://avatars.githubusercontent.com/u/16428095?v=4",
-  "sort": "created",
+  "sort": "star",
   "order": "asc",
-  "includeFork": false,
+  "includeFork": true,
   "theme": "light.css",
   "types": [
    "owner"
