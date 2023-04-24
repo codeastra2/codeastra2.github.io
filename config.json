@@ -4,8 +4,8 @@
   "name": "Srinivas Kumar R",
   "userimg": "https://avatars.githubusercontent.com/u/16428095?v=4",
   "sort": "star",
-  "order": "asc",
-  "includeFork": true,
+  "order": "desc",
+  "includeFork": false,
   "theme": "light.css",
   "types": [
    "owner"
